@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+h1{
+    color:papayawhip;
+    text-align:center;
+}
+.color{
+    color:lightsalmon;
+}
+.boxes{
+  margin-right:auto;
+  margin-left:auto;
+  width:1060px;
+  border: solid darkgrey 3px;
+}
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9, .box10{
+    height:110px;
+    width:110px;
+    background-color:#303233;
+    margin:10px;
+    float:left;
+}
+.box1:hover{
+    background-color: yellow;
+}
+.box2:hover{
+    background-color:deeppink;
+}
+.box3:hover{
+    background-color:#40FF00;
+}
+.box4:hover{
+    background-color:#2EFEF7;
+}
+.box5:hover{
+    background-color: #FF0000;
+}
+.box6:hover{
+    background-color: #BC61ED;
+}
+.box7:hover{
+    background-color:#0919FA;
+}
+.box8:hover{
+    background-color: #06FCB7;
+}
+.box9:hover{
+    background-color:#037A4E
+}
+.box10:hover{
+    background-color: #A1FE0D;
+}
